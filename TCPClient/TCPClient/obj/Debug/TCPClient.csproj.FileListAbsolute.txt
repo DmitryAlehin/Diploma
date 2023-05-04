@@ -8,3 +8,14 @@ C:\Users\Admin\Desktop\Projects\Diplom\VisualStudio\TCPClient\TCPClient\obj\Debu
 C:\Users\Admin\Desktop\Projects\Diplom\VisualStudio\TCPClient\TCPClient\obj\Debug\TCPClient.exe
 C:\Users\Admin\Desktop\Projects\Diplom\VisualStudio\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
 C:\Users\Admin\Desktop\Projects\Diplom\VisualStudio\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+F:\Projects\Diploma\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+F:\Projects\Diploma\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+F:\Projects\Diploma\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+F:\Projects\Diploma\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
