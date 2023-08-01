@@ -8,13 +8,13 @@ stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Include/core_cm3.h
-stabilization\esp8266.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stabilization\esp8266.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdint.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 stabilization\esp8266.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-stabilization\esp8266.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stabilization\esp8266.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdio.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
@@ -28,11 +28,11 @@ stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
 stabilization\esp8266.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
-stabilization\esp8266.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
-stabilization\esp8266.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stabilization\esp8266.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdbool.h
+stabilization\esp8266.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\string.h
 stabilization\esp8266.o: ../Inc/usart.h
 stabilization\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/freeRTOS.h
-stabilization\esp8266.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stabilization\esp8266.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stddef.h
 stabilization\esp8266.o: ../Inc/FreeRTOSConfig.h
 stabilization\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 stabilization\esp8266.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

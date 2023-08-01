@@ -8,13 +8,13 @@ stabilization\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
 stabilization\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 stabilization\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 stabilization\usart.o: ../Drivers/CMSIS/Include/core_cm3.h
-stabilization\usart.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stabilization\usart.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdint.h
 stabilization\usart.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 stabilization\usart.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 stabilization\usart.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 stabilization\usart.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 stabilization\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-stabilization\usart.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stabilization\usart.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdio.h
 stabilization\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 stabilization\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 stabilization\usart.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h

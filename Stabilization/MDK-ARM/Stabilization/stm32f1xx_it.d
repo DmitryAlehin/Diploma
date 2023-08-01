@@ -7,13 +7,13 @@ stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Include/core_cm3.h
-stabilization\stm32f1xx_it.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stabilization\stm32f1xx_it.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdint.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Include/core_cmInstr.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Include/core_cmFunc.h
 stabilization\stm32f1xx_it.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
-stabilization\stm32f1xx_it.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stabilization\stm32f1xx_it.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdio.h
 stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
@@ -30,7 +30,7 @@ stabilization\stm32f1xx_it.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_
 stabilization\stm32f1xx_it.o: ../Inc/stm32f1xx_it.h
 stabilization\stm32f1xx_it.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 stabilization\stm32f1xx_it.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-stabilization\stm32f1xx_it.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+stabilization\stm32f1xx_it.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stddef.h
 stabilization\stm32f1xx_it.o: ../Inc/FreeRTOSConfig.h
 stabilization\stm32f1xx_it.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 stabilization\stm32f1xx_it.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

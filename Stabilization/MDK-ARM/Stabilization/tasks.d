@@ -1,9 +1,9 @@
 stabilization\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
-stabilization\tasks.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-stabilization\tasks.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stabilization\tasks.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdlib.h
+stabilization\tasks.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\string.h
 stabilization\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-stabilization\tasks.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-stabilization\tasks.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stabilization\tasks.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stddef.h
+stabilization\tasks.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdint.h
 stabilization\tasks.o: ../Inc/FreeRTOSConfig.h
 stabilization\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 stabilization\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

@@ -1,8 +1,8 @@
 stabilization\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
-stabilization\event_groups.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stabilization\event_groups.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdlib.h
 stabilization\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-stabilization\event_groups.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-stabilization\event_groups.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stabilization\event_groups.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stddef.h
+stabilization\event_groups.o: F:\Program Files\Development\ARM\ARMCC\Bin\..\include\stdint.h
 stabilization\event_groups.o: ../Inc/FreeRTOSConfig.h
 stabilization\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 stabilization\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
